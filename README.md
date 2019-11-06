@@ -1,6 +1,8 @@
 # MacPyBluetooth
 python 写的 Mac 程序，蓝牙扫描设备，发现设备不在范围内则锁屏
 
+目前未完成的，主要是找 mac 的 python 蓝牙库太难了，我不至于为了写一个学习 python 的 app 再去学一通 OC 吧，2333
+
 ## pybluez 安装
 
 https://github.com/pybluez/pybluez/issues/133
